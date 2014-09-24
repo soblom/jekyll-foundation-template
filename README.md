@@ -30,6 +30,7 @@ Steps involved (in principle), to re-create the initial state of this template.
         }
       }
       ```
+      
   5. Run `bower install`
   6. Create `config.rb` with
       ```ruby
