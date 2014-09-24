@@ -20,7 +20,7 @@ Steps involved (in principle), to re-create the initial state of this template.
   2. Initialize project `jekyll new jekyll-foundation-template`
   3. Install npm with homebrew: `brew install npm`
   4. create `bower.json` with
-      ```json
+      ```javascript
       {
         "name": "foundation-compass-app",
         "version": "0.0.1",
